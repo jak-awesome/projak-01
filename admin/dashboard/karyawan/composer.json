@@ -1,0 +1,9 @@
+{
+    "name": "alvindo/kmeans",
+    "description": "untuk analisis cluster",
+    "type": "project",
+    "license": "GPL",
+    "require": {
+        "bdelespierre/php-kmeans": "^2.2"
+    }
+}
